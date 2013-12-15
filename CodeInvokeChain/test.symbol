@@ -1,0 +1,17 @@
+_123:b.c:2
+cccc:src/c.c:1
+check:test.c:29
+dis:test.c:6
+dishelloworld:b.c:5
+disp:a.h:6
+fprintf:lib:-1
+hehe:a.h:4
+helloworld:b.c:8
+main:test.c:44
+pk:test.c:16
+printf:lib:-1
+refval:test.c:38
+strcmp:lib:-1
+strlen:lib:-1
+strncpy:lib:-1
+thisFunc:test.c:34
